@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm basically no body
 
 <!--
 **5cr009e/5cr009e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Machine Learning and Autonomous Driving
+- 🌱 Programming Language Design and System Design
+- ⚡ Data Astrologist and Model Alchemist
