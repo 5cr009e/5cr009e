@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🔭 Machine Learning and Autonomous Driving
 - 🌱 Programming Language Design and System Design
 - ⚡ Data Astrologist and Model Alchemist
+
+[![5cr009e github stats](https://github-readme-stats.vercel.app/api?username=5cr009e&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
